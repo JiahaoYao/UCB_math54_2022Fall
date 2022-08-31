@@ -48,6 +48,14 @@ You are expected to work on quizzes alone and without notes. You are welcome to 
 
 The purpose of academic accommodations is to ensure that all students have a fair chance at academic success and every attempt will be made to accommodate qualified students with disability. Students have the right to reasonable academic accommodations, without having to disclose personal information to instructors. For more information about accommodations, scheduling conflicts related to religious creed or extracurricular activities, please see the Academic Accommodations website (https://evcp.berkeley.edu/programs-resources/academic-accommodations-hubaccommodations). Note that services are confidential, may take time to put into place, and are not retroactive. After you have established accommodations with the DSP office, please email me personally so we can set up a meeting and make arrangements for how to best accommodate you throughout the course. 
 
+
+# Resources
+
+- [Link](https://github.com/lin-lin/MATH54/tree/2020Spring) to the course website of the professor last offering.
+- [Link](https://math.berkeley.edu/~nikhil/courses/54.s21/) to the course website of the other professors.
+- [Link](https://math.berkeley.edu/courses/archives/exams/math-54/) to Math 54 exam archive of the department.
+- [Link](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) to some nice videos by 3Blue1Brown on YouTube.
+
 # Other Resources 
 
 Here is a compilation of other resources that may be useful to you throughout the semester. If there are any other resources (or topics for resources) that you think would be helpful for you or your fellow students, please don't hesitate to let me know and I will do my best to include them. 
@@ -62,3 +70,4 @@ Here is a compilation of other resources that may be useful to you throughout th
   - Health care: https://basicneeds.berkeley.edu/find-support/health-care/orion-fund 
   - Basic needs holistic fund: https://basicneeds.berkeley.edu/find-support/healthcare/orion-fund 
 - Some other programs can be found at https://basicneeds.berkeley.edu/
+
