@@ -10,6 +10,8 @@
 
 - discord: https://discord.gg/neUZS7mZ
 
+- online collection of questions: https://docs.google.com/document/d/1HbqcnjDF9PvV92Anf081vfJvhQ_JV-h0vEYlb-S7vYg/edit?usp=sharing
+
 - anonymous feedback form: https://forms.gle/uayWduqNcohufm449
 
 - Section Number: 225 DIS
