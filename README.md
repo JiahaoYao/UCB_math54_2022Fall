@@ -22,6 +22,22 @@
 
   
 
+# Quiz
+
+| Quiz    | Sections                | Quiz    | Solutions | Date                  |
+| ------- | ----------------------- | ------- | --------- | --------------------- |
+| Quiz 1  | 1.1, 1.2, 1.3           | Quiz 1  | Solutions | Thursday, September 1 |
+| Quiz 2  | 1.4, 1.5, 1.7, 1.8, 1.9 | Quiz 2  | Solutions |                       |
+| Quiz 3  | 2.1, 2.2, 2.3, 3.1, 3.2 | Quiz 3  | Solutions |                       |
+| Quiz 4  | 3.3, 4.1, 4.2           | Quiz 4  | Solutions |                       |
+| Quiz 5  | 4.6, 4.7                | Quiz 5  | Solutions |                       |
+| Quiz 6  | 5.1, 5.2, 5.3, 5.4      | Quiz 6  | Solutions |                       |
+| Quiz 7  | 6.1, 6.2, 6.3, 6.4      | Quiz 7  | Solutions |                       |
+| Quiz 8  | 6.5, 6.7, 7.1           | Quiz 8  | Solutions |                       |
+| Quiz 9  | 4.1, 4.2, 4.3, 4.4, 4.5 | Quiz 9  | Solutions |                       |
+| Quiz 10 | 9.4, 9.5, 9.6, 9.7      | Quiz 10 | Solutions |                       |
+| Quiz 11 | 9.8, 10.2, 10.3, 10.4   | Quiz 11 | Solutions |                       |
+
 # Course Description
 
 Sections will cover worksheets with relevant material from class. Here, you are encouraged to collaborate with your peers and ask questions for more hands-on learning of the material. Attendance is not mandatory, but is strongly encouraged for your own sake as a learner. 
