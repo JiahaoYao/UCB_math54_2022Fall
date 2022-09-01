@@ -26,7 +26,7 @@
 
 | Quiz    | Sections                | Quiz    | Solutions | Date                  |
 | ------- | ----------------------- | ------- | --------- | --------------------- |
-| Quiz 1  | 1.1, 1.2, 1.3           | Quiz 1  | Solutions | Thursday, September 1 |
+| Quiz 1  | 1.1, 1.2                | Quiz 1  | Solutions | Thursday, September 1 |
 | Quiz 2  | 1.4, 1.5, 1.7, 1.8, 1.9 | Quiz 2  | Solutions |                       |
 | Quiz 3  | 2.1, 2.2, 2.3, 3.1, 3.2 | Quiz 3  | Solutions |                       |
 | Quiz 4  | 3.3, 4.1, 4.2           | Quiz 4  | Solutions |                       |
