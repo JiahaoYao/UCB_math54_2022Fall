@@ -22,7 +22,12 @@
 
 - Class website: https://lin-lin.github.io/MATH54/
 
-  
+
+# Worksheet
+
+| Worksheet   | Note                                                                  | Date                  |
+|-------------|-----------------------------------------------------------------------|-----------------------|
+| Weeksheet 1 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws1.pdf) | Thursday, September 1 |
 
 # Quiz
 
