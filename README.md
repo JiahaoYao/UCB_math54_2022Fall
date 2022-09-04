@@ -23,6 +23,12 @@
 - Class website: https://lin-lin.github.io/MATH54/
 
 
+# Homework
+
+| [Week 1](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw1.pdf)   | [Week 2](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw2.pdf)                                                                  | [Week 3](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw3.pdf)                  |
+|-------------|-----------------------------------------------------------------------|-----------------------|
+|  | |  |
+
 # Worksheet
 
 | Worksheet   | Note                                                                  | Date                  |
