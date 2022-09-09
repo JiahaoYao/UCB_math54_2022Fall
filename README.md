@@ -34,13 +34,16 @@
 | Worksheet   | Note                                                                  | Date                  |
 |-------------|-----------------------------------------------------------------------|-----------------------|
 | Weeksheet 1 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws1.pdf) | Thursday, September 1 |
+| Weeksheet 2 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws2.pdf) | Tuesday, September 6  |
+| Weeksheet 3 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws3.pdf) | Thursday, September 8 |
+
 
 # Quiz
 
 | Quiz    | Sections                | Quiz    | Solutions | Date                  |
 | ------- | ----------------------- | ------- | --------- | --------------------- |
 | Quiz 1  | 1.1, 1.2                | [Quiz 1](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q1.pdf)  | [Solutions](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q1sol.pdf) | Thursday, September 1 |
-| Quiz 2  | 1.3, 1.4, 1.5, 1.7      | Quiz 2  | Solutions |                       |
+| Quiz 2  | 1.3, 1.4, 1.5, 1.7      | [Quiz 2](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q2.pdf)  | [Solutions](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q2sol.pdf) |                       |
 | Quiz 3  | 2.1, 2.2, 2.3, 3.1, 3.2 | Quiz 3  | Solutions |                       |
 | Quiz 4  | 3.3, 4.1, 4.2           | Quiz 4  | Solutions |                       |
 | Quiz 5  | 4.6, 4.7                | Quiz 5  | Solutions |                       |
