@@ -44,7 +44,7 @@
 | ------- | ----------------------- | ------- | --------- | --------------------- |
 | Quiz 1  | 1.1, 1.2                | [Quiz 1](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q1.pdf)  | [Solutions](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q1sol.pdf) | Thursday, September 1 |
 | Quiz 2  | 1.3, 1.4, 1.5, 1.7      | [Quiz 2](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q2.pdf)  | [Solutions](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q2sol.pdf) | Thursday, September 8 |
-| Quiz 3  | 2.1, 2.2, 2.3, 3.1, 3.2 | Quiz 3  | Solutions |                       |
+| Quiz 3  | 1.8-2.3                 | Quiz 3  | Solutions | Thursday, September 15|
 | Quiz 4  | 3.3, 4.1, 4.2           | Quiz 4  | Solutions |                       |
 | Quiz 5  | 4.6, 4.7                | Quiz 5  | Solutions |                       |
 | Quiz 6  | 5.1, 5.2, 5.3, 5.4      | Quiz 6  | Solutions |                       |
