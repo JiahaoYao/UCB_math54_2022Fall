@@ -8,7 +8,7 @@
 
 - Gradescope Code: **XVGNPY**
 
-- discord: https://discord.gg/neUZS7mZ
+- discord: https://discord.gg/vA9sRDZPp8
 
 - online collection of questions: https://docs.google.com/document/d/1HbqcnjDF9PvV92Anf081vfJvhQ_JV-h0vEYlb-S7vYg/edit?usp=sharing
 
