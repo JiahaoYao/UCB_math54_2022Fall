@@ -4,7 +4,7 @@
 
 - Homepage: http://math.berkeley.edu/~jiahao
 
-- Office Hours: Friday 4 - 5 PM (Evans 935) [No office hours on first week]
+- Office Hours: Friday 4 - 5 PM (Evans 935)
 
 - Gradescope Code: **XVGNPY**
 
