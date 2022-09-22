@@ -38,7 +38,8 @@
 | Weeksheet 3 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws3.pdf) | Thursday, September 8 |
 | Weeksheet 4 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws4.pdf) | Tuesday, September 13  |
 | Weeksheet 5 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws5.pdf) | Thursday, September 15 |
-
+| Weeksheet 6 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws6.pdf) | Thursday, September 20 |
+| Weeksheet 7 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws7.pdf), [solution](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws7sol.pdf) | Thursday, September 22 |
 # Quiz
 
 | Quiz    | Sections                | Quiz    | Solutions | Date                  |
