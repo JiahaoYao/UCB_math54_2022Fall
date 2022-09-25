@@ -25,8 +25,8 @@
 
 # Homework
 
-| [Week 1](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw1.pdf)   | [Week 2](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw2.pdf)                                                                  | [Week 3](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw3.pdf)  | [Week 4](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw4.pdf)          | [Week 5](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw5.pdf)            |
-|-------------|-----------------------------------------------------------------------|-----------------------|------|---|
+| [Week 1](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw1.pdf)   | [Week 2](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw2.pdf)                                                                  | [Week 3](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw3.pdf)  | [Week 4](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw4.pdf)          | [Week 5](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw5.pdf)            |[Week 5](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw6.pdf)            |
+|-------------|-----------------------------------------------------------------------|-----------------------|------|---|---|
 
 
 # Worksheet
