@@ -25,8 +25,8 @@
 
 # Homework
 
-| [Week 1](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw1.pdf)   | [Week 2](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw2.pdf)                                                                  | [Week 3](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw3.pdf)  | [Week 4](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw4.pdf)          | [Week 5](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw5.pdf)            |[Week 6](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw6.pdf)            |
-|-------------|-----------------------------------------------------------------------|-----------------------|------|---|---|
+| [Week 1](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw1.pdf)   | [Week 2](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw2.pdf)                                                                  | [Week 3](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw3.pdf)  | [Week 4](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw4.pdf)          | [Week 5](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw5.pdf)            |[Week 6](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw6.pdf)            | [Week 7](https://math.berkeley.edu/~jiahao/gsi/54_22f/hw/hw7.pdf)            |
+|-------------|-----------------------------------------------------------------------|-----------------------|------|---|---|---|
 
 
 # Worksheet
@@ -51,8 +51,8 @@
 | Quiz 1  | 1.1, 1.2                | [Quiz 1](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q1.pdf)  | [Solutions](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q1sol.pdf) | Thursday, September 1 |
 | Quiz 2  | 1.3, 1.4, 1.5, 1.7      | [Quiz 2](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q2.pdf)  | [Solutions](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q2sol.pdf) | Thursday, September 8 |
 | Quiz 3  | 1.8-2.3                 | [Quiz 3](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q3.pdf)   | [Solutions](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q3sol.pdf) | Thursday, September 15|
-| Quiz 4  | No quiz                 | Quiz 4  | Solutions |                       |
-| Quiz 5  | 4.6, 4.7                | Quiz 5  | Solutions |                       |
+| Quiz 4  | 2.8-4.5                 | [Quiz 4](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q4.pdf)   | [Solutions](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q4sol.pdf) | Thursday, September 30|
+| Quiz 5  | 4.6, 5.4, 3.1-3.3       | Quiz 5  | Solutions |                       |
 | Quiz 6  | 5.1, 5.2, 5.3, 5.4      | Quiz 6  | Solutions |                       |
 | Quiz 7  | 6.1, 6.2, 6.3, 6.4      | Quiz 7  | Solutions |                       |
 | Quiz 8  | 6.5, 6.7, 7.1           | Quiz 8  | Solutions |                       |
