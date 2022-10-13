@@ -38,12 +38,14 @@
 | Weeksheet 3 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws3.pdf) | Thursday, September 8 |
 | Weeksheet 4 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws4.pdf) | Tuesday, September 13  |
 | Weeksheet 5 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws5.pdf) | Thursday, September 15 |
-| Weeksheet 6 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws6.pdf) | Thursday, September 20 |
+| Weeksheet 6 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws6.pdf) | Tuesday, September 20 |
 | Weeksheet 7 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws7.pdf), [solution](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws7sol.pdf) | Thursday, September 22 |
-| Weeksheet 8 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws8.pdf), [solution](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws8sol.pdf) | Thursday, September 27 |
+| Weeksheet 8 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws8.pdf), [solution](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws8sol.pdf) | Tuesday, September 27 |
 | Weeksheet 9 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws9.pdf), [solution](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws9sol.pdf) | Thursday, September 29 |
-| Weeksheet 10 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws10.pdf), [solution](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws10sol.pdf) | Thursday, October 3 |
-| Weeksheet 11 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws11.pdf), [solution](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws11sol.pdf) | Thursday, October 5 |
+| Weeksheet 10 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws10.pdf), [solution](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws10sol.pdf) | Tuesday, October 4 |
+| Weeksheet 11 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws11.pdf), [solution](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws11sol.pdf) | Thursday, October 6 |
+| Weeksheet 12 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws12.pdf), [solution](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws12sol.pdf) | Tuesday, October 11 |
+| Weeksheet 13 | [pdf](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws13.pdf), [solution](https://math.berkeley.edu/~jiahao/gsi/54_22f/worksheet/ws13sol.pdf) | Thursday, October 13 |
 
 # Quiz
 
