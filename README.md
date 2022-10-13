@@ -53,7 +53,7 @@
 | Quiz 2  | 1.3, 1.4, 1.5, 1.7      | [Quiz 2](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q2.pdf)  | [Solutions](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q2sol.pdf) | Thursday, September 8 |
 | Quiz 3  | 1.8-2.3                 | [Quiz 3](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q3.pdf)   | [Solutions](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q3sol.pdf) | Thursday, September 15|
 | Quiz 4  | 2.8-4.5                 | [Quiz 4](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q4.pdf)   | [Solutions](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q4sol.pdf) | Thursday, September 30|
-| Quiz 5  | 4.6, 5.4, 3.1-3.3       | Quiz 5  | Solutions |                       |
+| Quiz 5  | 4.6, 5.4, 3.1-3.3       | [Quiz 5](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q5.pdf)  | [Solutions](https://math.berkeley.edu/~jiahao/gsi/54_22f/quiz/q5sol.pdf) | Thursday, October 6   |
 | Quiz 6  | 5.1, 5.2, 5.3, 5.4      | Quiz 6  | Solutions |                       |
 | Quiz 7  | 6.1, 6.2, 6.3, 6.4      | Quiz 7  | Solutions |                       |
 | Quiz 8  | 6.5, 6.7, 7.1           | Quiz 8  | Solutions |                       |
